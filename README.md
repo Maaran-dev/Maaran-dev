@@ -1,104 +1,248 @@
 <h1 align="center">Manimaran</h1>
 
 <h3 align="center">
-  Java Backend Engineer | Spring Boot | REST APIs | PostgreSQL | Redis
+  Java Backend Engineer • Spring Boot • REST APIs • PostgreSQL • Redis
 </h3>
 
 <p align="center">
-  Backend developer focused on building scalable, real-time, and data-driven applications using Java and Spring Boot.
+  Building scalable backend systems, real-time applications, and data-driven services with Java and Spring Boot.
 </p>
 
----
-
-### About Me
-
-- **Software Engineer** at SPowerZ Solution Pvt Ltd.
-- Specializing in **Java Backend Development**, with ongoing advancement in **Spring Boot, Spring MVC, Spring Data JPA, Hibernate, and DSA**.
-- Pursuing **Generative AI Course** through IBM.
-- Experienced in designing and implementing **REST APIs, real-time systems, TCP socket servers, caching, and database-driven applications**.
-- Strong background in IoT, including a **Vehicle Tracking System (AIS-140)** handling data from 5,000+ units, utilizing **TCP/IP, MQTT, and real-time data processing**.
-- Proficient in database management with **PostgreSQL, MySQL, and Redis**.
-- Contact: **manimaranvedarathinam@gmail.com**
-
----
-
-### Projects
-
-#### Vehicle Tracking System
-- Developed a Java TCP socket server to receive and process real-time GPS telemetry packets.
-- Scaled to handle concurrent data streams from over **5,000 vehicle tracking units**.
-- Implemented concurrent device connections and rigorous packet validation protocols.
-- Tech Stack: **Spring Boot, Spring Data JPA, Hibernate, PostgreSQL, and Redis**.
-- Delivered RESTful APIs for seamless integration with mobile and web client applications.
-
-#### Task Management API
-- Engineered robust backend APIs utilizing **Java and Spring Boot**.
-- Implemented scalable RESTful CRUD operations following a strict Controller → Service → Repository architecture.
-- Integrated **Spring Security and JWT authentication** for secure access.
-- Leveraged Spring Data JPA and Hibernate for efficient database interactions.
-
-#### IoT Pump Monitoring System
-- Architected a real-time IoT monitoring backend.
-- Engineered continuous processing of pump telemetry data at **60-second intervals**.
-- Implemented secure device communication protocols using TLS.
-- Tech Stack: **TypeScript, Bun.js, MQTT, and MySQL**.
-
----
-
-### Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/maaran-dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Manimaran LinkedIn" height="30" width="40"/>
+<p align="center">
+  <a href="https://github.com/Maaran-dev">
+    <img src="https://img.shields.io/badge/GitHub-Maaran--dev-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/Maaran-dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Manimaran GitHub" height="30" width="40"/>
+  <a href="https://www.linkedin.com/in/maaran-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Maaran--Dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:manimaranvedarathinam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### Languages and Tools
+## 👨‍💻 About Me
 
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
+* 💼 **Software Engineer at SPowerZ Solution Pvt Ltd**
+* ☕ Focused on **Java Backend Development** and building production-ready backend services.
+* 🚀 Working with **Spring Boot, Spring MVC, Spring Data JPA, Hibernate, REST APIs, and Spring Security**.
+* 🔐 Building secure APIs using **JWT-based authentication and authorization**.
+* 📡 Experienced in **real-time IoT and vehicle tracking systems** using TCP/IP, MQTT, and continuous data processing.
+* 🚗 Worked on an **AIS-140 Vehicle Tracking System** handling telemetry from **5,000+ tracking devices**.
+* 🗄️ Experienced with **PostgreSQL, MySQL, Redis, and SQL-based application development**.
+* 🧠 Currently strengthening **Data Structures & Algorithms, Java Collections, and backend system design**.
+* 🤖 Pursuing a **Generative AI course through IBM**.
+
+---
+
+## 🛠️ Technical Skills
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate" />
+</p>
+
+**Java** • **Spring Boot** • **Spring MVC** • **Spring Data JPA** • **Hibernate**
+**REST APIs** • **CRUD APIs** • **DTOs** • **Validation** • **Exception Handling**
+**Spring Security** • **JWT Authentication** • **OOP** • **Java Collections**
+
+### Databases & Caching
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+</p>
+
+**PostgreSQL** • **MySQL** • **SQL** • **Redis**
+Database design • Query optimization • ORM • JPA/Hibernate
+
+### Real-Time & IoT
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mqtt" />
+</p>
+
+**TCP/IP** • **TCP Socket Programming** • **MQTT**
+**Real-Time Data Processing** • **IoT Telemetry** • **Device Communication**
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,typescript,linux" />
+</p>
+
+**Git** • **GitHub** • **Postman** • **Linux** • **TypeScript** • **Maven**
+
+---
+
+# 🚀 Featured Projects
+
+## 🚗 Vehicle Tracking System
+
+A real-time vehicle tracking backend designed to receive, validate, process, and store GPS telemetry from large numbers of tracking devices.
+
+### Key Contributions
+
+* Developed a **Java TCP Socket Server** for receiving real-time GPS telemetry.
+* Designed concurrent connection handling for **5,000+ vehicle tracking units**.
+* Implemented packet validation and processing for incoming device data.
+* Built backend services using **Spring Boot**.
+* Used **Spring Data JPA and Hibernate** for persistence.
+* Integrated **PostgreSQL** for structured telemetry and application data.
+* Used **Redis** for high-speed caching and real-time data operations.
+* Developed **REST APIs** for mobile and web application integration.
+
+**Tech Stack**
+
+`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `PostgreSQL` `Redis` `TCP/IP` `REST APIs`
+
+---
+
+## 📋 Task Management API
+
+A secure backend API for managing projects, tasks, users, and task assignments.
+
+### Key Contributions
+
+* Designed RESTful APIs using **Spring Boot**.
+* Implemented clean **Controller → Service → Repository** architecture.
+* Developed CRUD operations for task and project management.
+* Implemented **DTO-based request and response handling**.
+* Added request validation and exception handling.
+* Implemented **Spring Security with JWT authentication**.
+* Used **Spring Data JPA and Hibernate** for database operations.
+
+**Tech Stack**
+
+`Java` `Spring Boot` `Spring Security` `JWT` `Spring Data JPA` `Hibernate` `REST APIs`
+
+---
+
+## 💧 IoT Pump Monitoring System
+
+A real-time IoT backend for monitoring pump telemetry and device activity.
+
+### Key Contributions
+
+* Developed backend services for continuous IoT telemetry processing.
+* Processed device data at **60-second intervals**.
+* Implemented MQTT-based device communication.
+* Added secure communication using **TLS**.
+* Designed backend processing for monitoring and storing device data.
+* Integrated MySQL for application and telemetry data.
+
+**Tech Stack**
+
+`TypeScript` `Bun.js` `MQTT` `MySQL` `TLS` `IoT`
+
+---
+
+# 📊 Engineering Focus
+
+```text
+Backend Engineering       ████████████████████  Java / Spring Boot
+API Development            ████████████████████  REST / JWT / DTO
+Database Engineering       ██████████████████░░  PostgreSQL / MySQL
+Real-Time Systems          ██████████████████░░  TCP / MQTT / Redis
+Problem Solving            ████████████████░░░░  DSA / Java Collections
+IoT Systems                ██████████████████░░  Telemetry / Devices
+```
+
+---
+
+# 🧠 Currently Learning
+
+```text
+Java Core
+   ↓
+Collections & Generics
+   ↓
+Data Structures & Algorithms
+   ↓
+Spring Boot
+   ↓
+Spring Security & JWT
+   ↓
+Database Optimization
+   ↓
+System Design
+   ↓
+Scalable Backend Architecture
+```
+
+* Advanced Java
+* Data Structures & Algorithms
+* Spring Boot internals
+* Spring Security
+* Database optimization
+* Redis and caching strategies
+* Backend system design
+* Scalable distributed systems
+* Generative AI
+
+---
+
+# 💡 Backend Engineering Principles
+
+```text
+Clean Architecture
+        +
+Secure APIs
+        +
+Efficient Database Access
+        +
+Scalable Processing
+        +
+Reliable Real-Time Communication
+        =
+Production-Ready Backend Systems
+```
+
+I focus on writing backend systems that are:
+
+* **Scalable**
+* **Maintainable**
+* **Secure**
+* **Performance-conscious**
+* **Easy to integrate**
+* **Designed around clear separation of responsibilities**
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maaran-dev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaran-dev&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Maaran-dev&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-### Backend Skills
+# 📫 Connect With Me
 
-`Java` • `Spring Boot` • `Spring MVC` • `Spring Data JPA` • `Hibernate`  
-`REST APIs` • `CRUD` • `DTOs` • `Validation` • `JWT`  
-`PostgreSQL` • `MySQL` • `Redis`  
-`TCP/IP` • `MQTT` • `Real-Time Data Processing`  
-`OOP` • `Java Collections` • `SQL` • `DSA`
+<p align="center">
+
+<a href="https://www.linkedin.com/in/maaran-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-Maaran--Dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Maaran-dev">
+  <img src="https://img.shields.io/badge/GitHub-Maaran--dev-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:manimaranvedarathinam@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Manimaran-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>Building backend systems that turn real-time data into reliable applications.</i>
+</p>
